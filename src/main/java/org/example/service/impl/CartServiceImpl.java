@@ -1,4 +1,4 @@
-package org.example.service;
+package org.example.service.impl;
 
 import com.bookstore.model.Cart;
 import com.bookstore.repository.CartRepository;

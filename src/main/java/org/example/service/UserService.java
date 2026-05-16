@@ -1,4 +1,4 @@
-package com.bookstore.service;
+package org.example.service;
 
 import com.bookstore.model.User;
 import java.util.List;
