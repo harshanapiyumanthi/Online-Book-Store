@@ -1,4 +1,4 @@
-package org.example.service.impl;
+package com.bookstore.service.impl;
 
 import com.bookstore.model.Review;
 import com.bookstore.repository.ReviewRepository;

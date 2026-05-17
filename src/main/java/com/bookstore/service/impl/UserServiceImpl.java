@@ -1,9 +1,9 @@
-package org.example.service.impl;
+package com.bookstore.service.impl;
 
 import com.bookstore.model.User;
-import com.bookstore.repository.UserRepository;
+import com.bookstore.Repository.UserRepository;
 
-import org.example.service.UserService;
+import com.bookstore.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

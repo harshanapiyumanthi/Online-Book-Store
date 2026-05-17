@@ -1,4 +1,4 @@
-package org.example.controller;
+package com.bookstore.controller;
 
 import com.bookstore.model.Review;
 import com.bookstore.model.User;

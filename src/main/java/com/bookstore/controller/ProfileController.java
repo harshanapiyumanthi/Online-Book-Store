@@ -1,7 +1,7 @@
 package com.bookstore.controller;
 
 import com.bookstore.model.User;
-import org.example.service.UserService;
+import com.bookstore.service.UserService;
 import com.bookstore.util.SessionUtil;
 import jakarta.servlet.http.HttpSession;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package org.example.Repository;
+package com.bookstore.Repository;
 
 import com.bookstore.model.Payment;
 import org.springframework.beans.factory.annotation.Value;

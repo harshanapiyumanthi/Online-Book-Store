@@ -4,7 +4,7 @@ import com.bookstore.model.Book;
 import com.bookstore.service.BookService;
 import com.bookstore.service.OrderService;
 import com.bookstore.service.ReviewService;
-import org.example.service.UserService;
+import com.bookstore.service.UserService;
 import com.bookstore.util.SessionUtil;
 import jakarta.servlet.http.HttpSession;
 import org.springframework.beans.factory.annotation.Autowired;
