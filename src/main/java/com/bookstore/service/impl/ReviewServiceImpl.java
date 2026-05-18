@@ -1,7 +1,7 @@
 package com.bookstore.service.impl;
 
 import com.bookstore.model.Review;
-import com.bookstore.repository.ReviewRepository;
+import com.bookstore.Repository.ReviewRepository;
 import com.bookstore.service.ReviewService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
