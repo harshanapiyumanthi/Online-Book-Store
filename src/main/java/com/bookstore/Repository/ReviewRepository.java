@@ -1,4 +1,4 @@
-package com.bookstore.repository;
+package com.bookstore.Repository;
 
 import com.bookstore.model.Review;
 import com.bookstore.util.FileUtil;
