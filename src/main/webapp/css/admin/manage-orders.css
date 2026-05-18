@@ -1,0 +1,5 @@
+/* admin/manage-orders.css - Page-specific styles for Track Sales & Orders Page */
+.select-pending { background-color: #ffc107 !important; color: #000 !important; font-weight: bold; }
+.select-completed { background-color: #198754 !important; color: #fff !important; font-weight: bold; }
+.select-cancelled { background-color: #dc3545 !important; color: #fff !important; font-weight: bold; }
+.form-select-sm { padding-top: 0.25rem; padding-bottom: 0.25rem; }

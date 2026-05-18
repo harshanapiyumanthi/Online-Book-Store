@@ -1,0 +1,4 @@
+/* orders.css - Page-specific styles for Order History Page */
+.badge-pending { background-color: #ffc107 !important; color: #000 !important; }
+.badge-completed { background-color: #198754 !important; color: #fff !important; }
+.badge-cancelled { background-color: #dc3545 !important; color: #fff !important; }
