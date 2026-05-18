@@ -1,7 +1,8 @@
 package com.bookstore.service.impl;
 
 import com.bookstore.model.Cart;
-import com.bookstore.repository.CartRepository;
+import com.bookstore.Repository.CartRepository;
+
 import com.bookstore.service.CartService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

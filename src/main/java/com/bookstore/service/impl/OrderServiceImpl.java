@@ -1,7 +1,8 @@
 package com.bookstore.service.impl;
 
 import com.bookstore.model.Order;
-import com.bookstore.repository.OrderRepository;
+import com.bookstore.Repository.OrderRepository;
+
 import com.bookstore.service.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
