@@ -1,7 +1,7 @@
 package com.bookstore.service.impl;
 
 import com.bookstore.model.Payment;
-import com.bookstore.repository.PaymentRepository;
+import com.bookstore.Repository.PaymentRepository;
 import com.bookstore.service.PaymentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

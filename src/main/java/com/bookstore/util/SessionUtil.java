@@ -1,6 +1,5 @@
 package com.bookstore.util;
 
-import com.bookstore.model.User;
 import jakarta.servlet.http.HttpSession;
 
 public class SessionUtil {
